@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m Steve Andrei Fajilan, a 4th year Computer Engineering student at FEU Institute of Technology. I enjoy the creative side of software development, especially working on the front-end where I can focus on design and user experience.</h3>
+<h3 align="left">I’m a 4th year Computer Engineering student at FEU Institute of Technology. I enjoy the creative side of software development, especially working on the front-end where I can focus on design and user experience.</h3>
 
 ###
 
@@ -13,6 +13,8 @@
 ###
 
 <h3><a href="..." target="_blank">My Web Portfolio</a> (🚧WIP)</h3>
+
+###
 
 <h3 align="left">Language and Tools:</h3>
 
