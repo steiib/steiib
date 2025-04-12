@@ -7,11 +7,13 @@
 ###
 
 <h4 align="left">
-  - 🌱 I’m currently learning React and Express
+  - 🌱 Currently learning React and Express
   <br>
   - 📫 You can reach me at <a href="mailto:sfajilan27@gmail.com" target="_blank">sfajilan27@gmail.com</a>
   <br>
-  - 👨‍💻 You can view my portfolio here <a href="https://your-portfolio-link.com" target="_blank">here</a>
+  - 🌐 You can view my portfolio <a href="..." target="_blank">here</a> (🚧WIP)
+  <br>
+  - 👨‍💻 Connect with me on <a href="https://www.linkedin.com/in/steve-andrei-fajilan/" target="_blank">Linkedin</a>
 </h4>
 
 ###
