@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Steve</h1>
+<h1 align="center">Hi 👋, I'm Steve</h1>
 
 ###
 
-<h3 align="left">I’m a 4th-year Computer Engineering student at FEU Institute of Technology. I enjoy working on the creative side of software development, especially front-end projects where I can focus on design and user experience.</h3>
+<h3 align="center">I’m a 4th-year Computer Engineering student at FEU Institute of Technology. I enjoy working on the creative side of software development, especially front-end projects where I can focus on design and user experience.</h3>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<h3><a href="..." target="_blank">My Web Portfolio</a> (🚧WIP)</h3>
+<h3 align="center"><a href="..." target="_blank">My Portfolio</a> (🚧WIP)</h3>
 
 ###
 
@@ -71,8 +71,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steiib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=noctis_minimus&hide_border=true&border_radius=10&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=steiib&locale=en&mode=daily&theme=noctis_minimus&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steiib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=true&border_radius=10&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=steiib&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
