@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I’m a 4th year Computer Engineering student at FEU Institute of Technology. I enjoy the creative side of software development, especially working on the front-end where I can focus on design and user experience.</h3>
+<h3 align="left">I’m a 4th year Computer Engineering student at FEU Institute of Technology. I enjoy working on the creative side of software development especially on front-end where I can focus on design and user experience.</h3>
 
 ###
 
