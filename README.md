@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Steve</h1>
+<h1 align="left">Hi 👋, I'm Steve</h1>
 
 ###
 
@@ -12,7 +12,9 @@
 
 ###
 
+<hr>
 <h3 align="center"><a href="..." target="_blank">My Web Portfolio</a> (🚧WIP)</h3>
+<hr>
 
 ###
 
