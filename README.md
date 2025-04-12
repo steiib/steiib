@@ -6,17 +6,13 @@
 
 ###
 
-<h4 align="left">
-  - 🌱 Currently learning React and Express
-  <br>
-  - 📫 You can reach me at <a href="mailto:sfajilan27@gmail.com" target="_blank">sfajilan27@gmail.com</a>
-  <br>
-  - 🌐 You can view my portfolio <a href="..." target="_blank">here</a> (🚧WIP)
-  <br>
-  - 👨‍💻 Connect with me on <a href="https://www.linkedin.com/in/steve-andrei-fajilan/" target="_blank">Linkedin</a>
-</h4>
+- 🌱 Currently learning React and Express
+- 📫 You can reach me at <a href="mailto:sfajilan27@gmail.com" target="_blank">sfajilan27@gmail.com</a>
+- 👨‍💻 Connect with me on <a href="https://www.linkedin.com/in/steve-andrei-fajilan/" target="_blank">Linkedin</a>
 
 ###
+
+<h3><a href="..." target="_blank">My Web Portfolio</a> (🚧WIP)</h3>
 
 <h3 align="left">Language and Tools:</h3>
 
