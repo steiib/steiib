@@ -8,7 +8,7 @@
 
 - 🌱 Currently learning React and Express
 - 📫 You can reach me at <a href="mailto:sfajilan27@gmail.com" target="_blank">sfajilan27@gmail.com</a>
-- 👨‍💻 Connect with me on <a href="https://www.linkedin.com/in/steve-andrei-fajilan/" target="_blank">Linkedin</a>
+- 👨‍💻 Connect with me on <a href="https://www.linkedin.com/in/steve-andrei-fajilan/" target="_blank">LinkedIn</a>
 
 ###
 
