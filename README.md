@@ -75,7 +75,7 @@
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=steiib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=city_lights&hide_border=true&border_radius=10&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-stats.demolab.com?user=steiib&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=10&order=3" height="150" alt="github graph"  />
+  <img src="https://streak-stats.demolab.com?user=steiib&locale=en&mode=daily&theme=city_lights&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
