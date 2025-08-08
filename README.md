@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="center"><a href="..." target="_blank">My Web Portfolio</a> (🚧WIP)</h3>
+<h3 align="center"><a href="https://steve-fajilan.vercel.app" target="_blank">My Web Portfolio</a></h3>
 
 ###
 
